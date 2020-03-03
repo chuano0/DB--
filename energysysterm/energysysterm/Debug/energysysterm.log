@@ -1,0 +1,4 @@
+﻿  pagefive.cpp
+e:\快捷方式\曾令川\energysysterm\energysysterm\pagefive.cpp(95): warning C4477: “sprintf_s”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+  energysysterm.vcxproj -> E:\快捷方式\曾令川\energysysterm\Debug\energysysterm.exe
+  energysysterm.vcxproj -> E:\快捷方式\曾令川\energysysterm\Debug\energysysterm.pdb (Partial PDB)
